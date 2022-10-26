@@ -1,4 +1,7 @@
+node_modules/
 vendor/
+public/vendor/
+public/pma520/
 *.log
 *.mp4
 *.mp3
